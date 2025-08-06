@@ -9,9 +9,9 @@
     "format": "slidev format"
   },
   "dependencies": {
-    "@slidev/cli": "^51.8.1",
+    "@slidev/cli": "^52.1.0",
     "@slidev/theme-default": "^0.25.0",
     "@slidev/theme-seriph": "^0.25.0",
-    "vue": "^3.5.16"
+    "vue": "^3.5.18"
   }
 }
